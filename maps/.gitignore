@@ -63,4 +63,4 @@ typings/
 # Parcel related files
 dist/
 .parcel-cache/
-!.parcel-cache/data.mdb
+.parcel-cache/data.mdb
